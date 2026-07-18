@@ -43,13 +43,6 @@ Attack-on-Titan-Landing-Page/
 └── README.md
 ```
 
-## 📸 Screenshots
-
-### Hero Section
-
-> ![landing page](./image.png)
-
-
 ## 🚀 Live Demo
 
 👉 **Live Demo:** https://mo0hamdy.github.io/Attack-On-Titan/
