@@ -47,7 +47,7 @@ Attack-on-Titan-Landing-Page/
 
 ### Hero Section
 
-> ![landing page](image.png)
+> ![landing page](./image.png)
 
 
 ## 🚀 Live Demo
